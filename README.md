@@ -11,7 +11,7 @@ Copy and run everything in one go:
 
 # 1. Clone the repo
 ```
-git clone [https://github.com/Gracyclub/Durga-Maa-Python-sketch.git]
+git clone [https://github.com/abhinav87976-code/Durga-Maa-Python-sketch.git]
 ```
 
 cd Durga-Maa-Mahishasura-Mardini-Python-Art
